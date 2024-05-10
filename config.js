@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        px: 'ton prefix',
+        px: '+',
         token: 'ton token',
-        owners: 'id bruyer',
+        owners: '1224486378885218305',
         funny: 'id dev',
         color: 'couleur',
         footer: 'ton footer',
